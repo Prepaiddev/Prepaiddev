@@ -2,6 +2,14 @@
 <h1 align="center">👋 Hi, I'm Omoniyi Adedeji Samuel</h1>
 <h3 align="center">💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🌐 Web3 Explorer | 🎨 Creator</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Omoniyi+Adedeji+Samuel&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Web3+Explorer;Creator&font=Fira+Code&pause=1000&width=400&height=100)](https://git.io/typing-svg)
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
