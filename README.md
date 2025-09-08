@@ -14,7 +14,7 @@ I'm a **builder, creator, and lifelong learner** who enjoys developing **apps, p
 - 🚀 Founder of **Adedeji Innovations Ltd**, managing multiple web platforms.  
 - 🎯 Long-term goal: **contribute to open-source, scale startups, and build global products**.  
 - 🎨 Hobbies: **Writing novels 📖 | Blender animation 🎬 | Gaming 🎮 | Exploring new tech 🧪**.  
-- 📜 Certifications: Digital Marketing (completed), Full-Stack Developer Path (ongoing), Industrial Training in Programming & Web Dev.  
+- 📜 Certifications: Digital Marketing (completed), Full-Stack Developer (Completed).  
 - 💡 Favorite motto: *“Build, Learn, Share, Repeat.”*
 
 ---
@@ -127,16 +127,16 @@ Here are some of my **real-world platforms & websites** 🚀:
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/@DailyUpdatesNews" target="_blank">
+  <a href="https://www.youtube.com/@Learnwithdeji" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/dailyupdatesnow" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:Onlineprepaidventures@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/dejibuilds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://discord.gg/" target="_blank">
@@ -156,5 +156,5 @@ Here are some of my **real-world platforms & websites** 🚀:
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prepaiddev/Prepaiddev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
