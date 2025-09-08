@@ -156,5 +156,5 @@ Here are some of my **real-world platforms & websites** 🚀:
 <br clear="both">
 
 <div align="center">
-  <img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Prepaiddev/Prepaiddev/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
