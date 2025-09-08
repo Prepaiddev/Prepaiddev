@@ -1,14 +1,10 @@
-<!-- Profile Banner -->
-<h1 align="center">👋 Hi, I'm Omoniyi Adedeji Samuel</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🌐 Web3 Explorer | 🎨 Creator</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👋+Hi,+I'm+Omoniyi+Adedeji+Samuel&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=👋+Hi,+I'm+Omoniyi+Adedeji+Samuel&animation=fadeIn&type=waving&color=gradient&height=120&fontAlign=50&fontAlignY=35&desc=💻+Full-Stack+Developer+|+🚀+Tech+Enthusiast+|+🌐+Web3+Explorer+|+🎨+Creator&descAlign=50&descAlignY=70" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&width=600&lines=💻+Full-Stack+Developer;🚀+Tech+Enthusiast;🌐+Web3+Explorer;🎨+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Building+apps,+bots+%26+platforms;Exploring+Web3+and+blockchain;Always+learning+%26+creating" alt="Typing SVG" />
   </a>
 </p>
 
