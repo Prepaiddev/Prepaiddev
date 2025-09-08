@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👋+Hi,+I'm+Omoniyi+Adedeji+Samuel&animation=fadeIn&type=waving&color=gradient&height=120&fontAlign=50&fontAlignY=35&desc=💻+Full-Stack+Developer+|+🚀+Tech+Enthusiast+|+🌐+Web3+Explorer+|+🎨+Creator&descAlign=50&descAlignY=70" />
-</p>
+## 👋 Hi, I'm Omoniyi Adedeji Samuel  
+💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🌐 Web3 Explorer | 🎨 Creator  
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Building+apps,+bots+%26+platforms;Exploring+Web3+and+blockchain;Always+learning+%26+creating" alt="Typing SVG" />
-  </a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1E90FF&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Web3+Explorer;Creator;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
