@@ -73,8 +73,6 @@ I'm a **builder, creator, and lifelong learner** who enjoys developing **apps, p
 Here are some of my **real-world platforms & websites** 🚀:
 
 - 🔹 [**DailyUpdates**](https://dailyupdates.net.ng) – News & Blog Platform  
-- 🔹 [**Tasks**](https://tasks.dailyupdates.net.ng) – Task & Earn Platform  
-- 🔹 [**Boost**](https://boost.dailyupdates.net.ng) – Online Promotion Platform  
 - 🔹 [**Movies**](https://movies.dailyupdates.net.ng) – Movie Portal  
 - 🔹 [**MicroLab**](https://jobs.dailyupdates.net.ng) – Jobs & SMM Agency  
 - 🔹 [**FilmZone**](https://filmzone.com.ng) – Movie Streaming Website  
@@ -82,7 +80,13 @@ Here are some of my **real-world platforms & websites** 🚀:
 - 🔹 [**NairaHost**](https://nairahost.com.ng) – Hosting & Domain Provider  
 - 🔹 [**AxiomHost**](https://axiomhost.com.ng) – Hosting Platform & domain registrar
 - 🔹 [**TechWave**](https://techwave.com.ng) – Forum & Community Website
+- 🔹 [**CRU-EXAM**](https://deji.dailyupdates.net.ng/) – An online examination website
+- 🔹 [**Voting-system**](https://precious.dailyupdates.net.ng/) – An online student voting system website
+- 🔹 [**Anonymous reporting system**](https://nimi.dailyupdates.net.ng/) – A Platform to report crimes and incidents around and outside the campus
 - 🔹 [**Tutorlink**](https://tutorlink-two.vercel.app/) – An Online learning education platform with 4 accounts types, teacher, students, parents, and admin
+
+  **i have Lots of other projects my clients hae not given me permission to showcase and put on display, but i appreciate you checking out my portfolio.**
+
 
 - 
 
