@@ -82,7 +82,7 @@ Here are some of my **real-world platforms & websites** 🚀:
 - 🔹 [**NairaHost**](https://nairahost.com.ng) – Hosting & Domain Provider  
 - 🔹 [**AxiomHost**](https://axiomhost.com.ng) – Hosting Platform & domain registrar
 - 🔹 [**TechWave**](https://techwave.com.ng) – Forum & Community Website
-- 🔹 [**Tutorlink**](https://techwave.com.ng) – An Online learning education platform with 4 accounts types, teacher, students, parents, and admin
+- 🔹 [**Tutorlink**]((https://tutorlink-two.vercel.app/) – An Online learning education platform with 4 accounts types, teacher, students, parents, and admin
 
 - 
 
