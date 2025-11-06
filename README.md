@@ -11,7 +11,7 @@ Hey there! I'm **Omoniyi Adedeji Samuel**, known here as **Prepaiddev**.
 I'm a **builder, creator, and lifelong learner** who enjoys developing **apps, platforms, bots, and digital ecosystems** that impact real users.  
 
 - 🔭 I’m currently working on **web apps, Telegram mini-apps, and crypto projects**.  
-- 🌱 I’m learning **Full-Stack Development (Codecademy)** and deep-diving into **Web3/DeFi**.  
+- 🌱 I am a **Full-Stack Developer** and deep-diving into **Web3/DeFi**.  
 - 🚀 Founder of **Adedeji Innovations Ltd**, managing multiple web platforms.  
 - 🎯 Long-term goal: **contribute to open-source, scale startups, and build global products**.  
 - 🎨 Hobbies: **Writing novels 📖 | Blender animation 🎬 | Gaming 🎮 | Exploring new tech 🧪**.  
@@ -80,8 +80,11 @@ Here are some of my **real-world platforms & websites** 🚀:
 - 🔹 [**FilmZone**](https://filmzone.com.ng) – Movie Streaming Website  
 - 🔹 [**HighPay**](https://highpay.ca) – Online Payment Solution  
 - 🔹 [**NairaHost**](https://nairahost.com.ng) – Hosting & Domain Provider  
-- 🔹 [**AxiomHost**](https://axiomhost.com.ng) – Hosting Platform  
-- 🔹 [**TechWave**](https://techwave.com.ng) – Forum & Community Website  
+- 🔹 [**AxiomHost**](https://axiomhost.com.ng) – Hosting Platform & domain registrar
+- 🔹 [**TechWave**](https://techwave.com.ng) – Forum & Community Website
+- 🔹 [**Tutorlink**](https://techwave.com.ng) – An Online learning education platform with 4 accounts types, teacher, students, parents, and admin
+
+- 
 
 ---
 
@@ -99,8 +102,8 @@ Here are some of my **real-world platforms & websites** 🚀:
 ## 📜 Certifications & Learning
 
 - ✅ **Digital Marketing Certification** (completed)  
-- ✅ **Codecademy Full-Stack Developer Path** (ongoing)  
-- ✅ **Industrial Training** in Programming, Web Development & Marketing  
+- ✅ **Codecademy Full-Stack Developer Path** (Completed)  
+- ✅ **Industrial Training** in Programming, Web Development & Marketing  (Completed)
 - ✅ **Unity Game Development** – Ads Integration (AppLovin SDK)  
 
 ---
